@@ -1,0 +1,23 @@
+/*================================================================================
+                                général*/
+body {
+    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+header {
+    background-color: #2C332F;
+    color: white;
+}
+/*================================================================================
+                                slider*/
+#slider {
+    margin-left: 30%;
+    margin-right: 29.75%;
+    border: 2px solid black;
+    box-shadow: 6px 6px 6px #2C332F;
+}
