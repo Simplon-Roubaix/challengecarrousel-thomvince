@@ -15,7 +15,7 @@ var slider = function(container) {
         if (this.currentImage >= this.images.length) {
             this.currentImage = 0;
         }
-        window.setTimeout(nextSlide.bind(this), 3000);
+        window.setTimeout(nextSlide.bind(this), 5000);
     };
 
     nextSlide.call(this);
